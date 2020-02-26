@@ -13,7 +13,7 @@ cout<<"Enter name :";
 cin>>name;
 cout<<"Enter account number:";
 cin>>acno;
-cout<<"Enter type of account :";
+cout<<"Enter type of account(Savings or Current) :";
 cin>>type;
 balance=500;
 }
